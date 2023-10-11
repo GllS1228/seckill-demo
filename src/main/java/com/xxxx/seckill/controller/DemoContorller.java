@@ -1,4 +1,4 @@
-package com.xxxx.seckill.contorller;
+package com.xxxx.seckill.controller;
 
 
 import org.springframework.stereotype.Controller;
